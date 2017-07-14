@@ -36,6 +36,7 @@ Tests | [🚨 Police Cars Revolving Light](http://emojipedia.org/police-cars-rev
 Deprecation | [💩 Pile of Poo](http://emojipedia.org/pile-of-poo/)
 Removal | [🗑️ Wastebasket](http://emojipedia.org/wastebasket/)
 Work In Progress (WIP) | [🚧 Construction Sign](http://emojipedia.org/construction-sign/)
+Scaling | [⚙️ Gear](http://emojipedia.org/gear/)
 
 ## Using Emoji is Hard! 😡
 
